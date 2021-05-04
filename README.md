@@ -50,7 +50,7 @@ Read `docker build/run` CMD details online.
 
 We use github to maintain our code and use docker hub to maintain our registry image.
 
-# Below is the readme from Docker Distribution.You can simply igron it!
+# Below is the readme from Docker Distribution.You can simply ignore it!
 # Distribution
 
 The Docker toolset to pack, ship, store, and deliver content.
